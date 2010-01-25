@@ -3,6 +3,8 @@
 # ActionMailer.
 #
 
+require 'action_mailer'
+
 class ActionMailer::Base
 
   ##
